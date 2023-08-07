@@ -1,6 +1,3 @@
-# Deneo Shi 101271921
-
-
 ''' INSTRUCTIONS! INSTRUCTIONS! INSTRUCTIONS!
 
 Instructions: Import any image file type as a system command line argument, and after doing so, answer how big of an area dimension
