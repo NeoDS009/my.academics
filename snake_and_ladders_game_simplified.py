@@ -1,5 +1,3 @@
-# Deneo Shi 101271921
-
 # Importing all needed third-party modules
 import random
 import pygame
