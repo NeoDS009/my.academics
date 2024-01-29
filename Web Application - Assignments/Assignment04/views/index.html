@@ -1,0 +1,62 @@
+
+
+<!-- THE CLIENT-SIDE: html source code -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MyTunes</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <h1>Playlist</h1>
+            <table id="playlist_table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Title</th>
+                        <th>Artist</th>
+                        <th>Artwork</th>
+                    </tr>
+                </thead>
+                <tbody id="playlist_body"></tbody>
+            </table>
+        </div>
+        <br></br>
+        <div class="wrapper">
+            Enter Song Title: <input type="text" name="city" id="songTitleTextField" />
+            <button id="submit_button" style="margin-bottom: 50px;">Submit</button>
+        </div>
+        <div id="search_results_div">
+            <h1 id="search_results_heading">Songs matching: </h1>
+            <table id="search_results_table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Title</th>
+                        <th>Artist</th>
+                        <th>Artwork</th>
+                    </tr>
+                </thead>
+                <tbody id="search_results_body"></tbody>
+            </table>
+        </div>
+        
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
+
+
+
+
