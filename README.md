@@ -1,6 +1,3 @@
-Program author:
-Deneo Shi
-
 Purpose:
 Showcasing source code that I have programmed in my academic experiences. 
 
