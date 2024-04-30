@@ -1,10 +1,11 @@
 Purpose:
-Showcasing source code that I have programmed in my academic experiences. 
+Showcasing programming projects that I have worked on during my academic journey. 
 
-Language Showcase:
+Programming languages:
 - Python
 - Java
 - C
+- C++
 - JavaScript, HTML, CSS
 
 Directories
