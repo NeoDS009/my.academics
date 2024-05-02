@@ -1,5 +1,5 @@
 NAME: 
-Deneo Shi 101271921
+Deneo Shi
 
 INSTALL INSTRUCTIONS:
 npm install
