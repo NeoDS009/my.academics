@@ -13,3 +13,4 @@ Directories
 - Python Coding - Assessments (Python)
 - Systems Programming - Assignments (C)
 - Web Application - Assignments (JavaScript, HTML, CSS)
+- Software Engineering - Assignments (C++)
